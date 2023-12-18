@@ -11,9 +11,8 @@ If the following templates are deployed as is they will deploy a /20 for all sub
 | /24 |	WebSubnet |	NSG_Web |	10.0.5.0/24 |
 | /24 |	DBSubnet |	NSG_DB |	10.0.6.0/24 |
 | Vnet_2Subnet |	/22 |		10.0.12.0/22 |
-| /24 |	WVD_UsersSubnet |	NSG_Users |	10.0.12.0/24 |
-| /24 |	WVD_AdminsSubnet |	NSG_Admins |	10.0.13.0/24 |
-| /26 |	BastionSubnet |	None |	10.0.14.0/26 |
+| /24 |	UsersSubnet |	NSG_Users |	10.0.12.0/24 |
+| /24 |	AdminsSubnet |	NSG_Admins |	10.0.13.0/24 |
 
 # 3 Subnet
 

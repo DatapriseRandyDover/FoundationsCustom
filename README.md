@@ -1,4 +1,4 @@
-# CustomFoundations-2
+# CustomFoundations
 
 These are JSON templates for a new azure foundations deployment.  The deployments include the basic infrastructure for each subscription.  They include objects like VNETs, NSGs, Virtual Network Gateways, Recovey Services Vaults, and a single Log Analytics account.
 
@@ -15,9 +15,8 @@ If the following templates are deployed as is they will deploy a /20 for all sub
 | /24 |	AdminsSubnet |	NSG_Admins |	10.0.13.0/24 |
 
 # 3 Subnet
-
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFoundationsCustom%2Fmain%2F3subnetdeploynobastion.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundationsCustom%2Fmain%2F3subnetdeploynobastion.json)
 
 
 # 2 Subnet
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFoundationsCustom%2Fmain%2F2subnetdeploynobastion.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundationsCustom%2Fmain%2F2subnetdeploynobastion.json)

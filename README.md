@@ -20,3 +20,6 @@ If the following templates are deployed as is they will deploy a /20 for all sub
 
 # 2 Subnet
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundationsCustom%2Fmain%2F2subnetdeploynobastion.json)
+
+# 1 Subnet
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdatapriserandydover%2FFoundationsCustom%2Fmain%2F1subnetdeploynobastion.json)

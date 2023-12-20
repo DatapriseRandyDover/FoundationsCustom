@@ -73,19 +73,7 @@
        ]
      }
    },
-   {
-     "name": "[parameters('NSG2')]",
-     "type": "Microsoft.Network/networkSecurityGroups",
-     "apiVersion": "2018-10-01",
-     "location": "[parameters('location')]",
-     "tags": "[parameters('resourceTags')]",
-     "properties": {
-       "securityRules": [
-
-       ]
-     }
-   },
-   {
+      {
      "apiVersion": "2015-05-01-preview",
      "type": "Microsoft.Network/virtualNetworks",
      "name": "[parameters('vnetName')]",

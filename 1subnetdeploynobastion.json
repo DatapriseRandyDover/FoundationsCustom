@@ -80,8 +80,7 @@
      "location": "[parameters('location')]",
      "tags": "[parameters('resourceTags')]",
      "dependsOn": [
-         "[resourceId('Microsoft.Network/networkSecurityGroups',parameters('NSG1'))]",
-         "[resourceId('Microsoft.Network/networkSecurityGroups',parameters('NSG2'))]"
+         "[resourceId('Microsoft.Network/networkSecurityGroups',parameters('NSG1'))]"
          ],
      "properties": {
        "addressSpace": {
